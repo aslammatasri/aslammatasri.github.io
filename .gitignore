@@ -1,0 +1,9 @@
+node_modules
+.nuxt
+.output
+dist
+.claude
+.agents
+.hallmark
+skills-lock.json
+.DS_Store
